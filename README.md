@@ -1,2 +1,2 @@
-# Sistemas Expertos
+# Sistemas Expertos - Turismo Huanuco
 # Visual Prolog
